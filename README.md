@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**measrainsey/measrainsey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <br>
+  <samp>
+    :ramen:	    
+    <br>i'm a postdoc at UCSB (affiliated with <a href="https://github.com/emlab-ucsb">emLab</a> and <a href="https://github.com/cetlab-ucsb">CETlab</a>).
+    <br>my work focuses on modeling energy systems and 
+    <br>their environmental impacts
+    <br><br>elsewhere on the interwebs, i sporadically :sparkles: <a href="https://measrainsey.com/">blog</a> :sparkles: and occasionally :sparkles: <a href="https://twitter.com/measrainsey">tweet</a> :sparkles:
+  </samp>
+</p>
